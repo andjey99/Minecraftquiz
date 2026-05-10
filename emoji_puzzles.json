@@ -1,0 +1,22 @@
+[
+  {
+    "targetId": "bett",
+    "targetName": "Bett",
+    "emojis": ["🛏️", "🐑", "🪵"]
+  },
+  {
+    "targetId": "tnt",
+    "targetName": "TNT",
+    "emojis": ["💥", " gunpowder", "🏜️"]
+  },
+  {
+    "targetId": "kuchen",
+    "targetName": "Kuchen",
+    "emojis": ["🎂", "🥛", "🥚", "🌾"]
+  },
+  {
+    "targetId": "angel",
+    "targetName": "Angel",
+    "emojis": ["🎣", "🪵", "🕸️"]
+  }
+]

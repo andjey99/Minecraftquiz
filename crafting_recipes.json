@@ -1,0 +1,48 @@
+{
+  "bett": {
+    "ingredients": {
+      "W": { "name": "Wolle (beliebig)", "bild_url": "https://minecraft.wiki/images/White_Wool.png" },
+      "P": { "name": "Holzbretter (beliebig)", "bild_url": "https://minecraft.wiki/images/Oak_Planks.png" }
+    },
+    "shape": [
+      "WWW",
+      "PPP",
+      "   "
+    ]
+  },
+  "tnt": {
+    "ingredients": {
+      "G": { "name": "Schwarzpulver", "bild_url": "https://minecraft.wiki/images/Gunpowder.png" },
+      "S": { "name": "Sand", "bild_url": "https://minecraft.wiki/images/Sand.png" }
+    },
+    "shape": [
+      "GSG",
+      "SGS",
+      "GSG"
+    ]
+  },
+  "kuchen": {
+      "ingredients": {
+          "M": { "name": "Milcheimer", "bild_url": "https://minecraft.wiki/images/Milk_Bucket.png"},
+          "S": { "name": "Zucker", "bild_url": "https://minecraft.wiki/images/Sugar.png"},
+          "E": { "name": "Ei", "bild_url": "https://minecraft.wiki/images/Egg.png"},
+          "W": { "name": "Weizen", "bild_url": "https://minecraft.wiki/images/Wheat.png"}
+      },
+      "shape": [
+          "MMM",
+          "SES",
+          "WWW"
+      ]
+  },
+  "angel": {
+      "ingredients": {
+          "S": { "name": "Faden", "bild_url": "https://minecraft.wiki/images/String.png"},
+          "T": { "name": "Stock", "bild_url": "https://minecraft.wiki/images/Stick.png"}
+      },
+      "shape": [
+          "  T",
+          " TS",
+          "T S"
+      ]
+  }
+}

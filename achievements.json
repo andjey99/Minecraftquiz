@@ -1,0 +1,188 @@
+[
+  {
+    "id": "erster_sieg",
+    "name": "First Blood",
+    "beschreibung": "Win your first game",
+    "emoji": "🏆"
+  },
+  {
+    "id": "pazifist",
+    "name": "Pacifist",
+    "beschreibung": "Target was a passive mob",
+    "emoji": "🕊️"
+  },
+  {
+    "id": "krieger",
+    "name": "Warrior",
+    "beschreibung": "Target was a hostile mob",
+    "emoji": "⚔️"
+  },
+  {
+    "id": "nervenkitzel",
+    "name": "Thrill Seeker",
+    "beschreibung": "Guess correctly on the last try",
+    "emoji": "😨"
+  },
+  {
+    "id": "volltreffer",
+    "name": "Bullseye",
+    "beschreibung": "Guess correctly on the first try",
+    "emoji": "🎯"
+  },
+  {
+    "id": "erster_sieg",
+    "name": "First Blood",
+    "beschreibung": "Win your first game",
+    "emoji": "🏆"
+  },
+  {
+    "id": "ich_habs_vermasselt",
+    "name": "I Messed Up",
+    "beschreibung": "Fail guessing the mob",
+    "emoji": "💀"
+  },
+  {
+    "id": "lehrling",
+    "name": "Apprentice",
+    "beschreibung": "Win 5 games",
+    "emoji": "🎓"
+  },
+  {
+    "id": "geselle",
+    "name": "Journeyman",
+    "beschreibung": "Win 25 games",
+    "emoji": "🛠️"
+  },
+  {
+    "id": "meister",
+    "name": "Master",
+    "beschreibung": "Win 50 games",
+    "emoji": "👑"
+  },
+  {
+    "id": "heissgelaufen",
+    "name": "Warming Up",
+    "beschreibung": "Reach a 3 win streak",
+    "emoji": "🔥"
+  },
+  {
+    "id": "unaufhaltsam",
+    "name": "Unstoppable",
+    "beschreibung": "Reach a 10 win streak",
+    "emoji": "☄️"
+  },
+  {
+    "id": "legende",
+    "name": "Legend",
+    "beschreibung": "Reach a 30 win streak",
+    "emoji": "🌟"
+  },
+  {
+    "id": "perfekte_woche",
+    "name": "Perfect Week",
+    "beschreibung": "7 win streak",
+    "emoji": "🗓️"
+  },
+  {
+    "id": "volltreffer",
+    "name": "Bullseye",
+    "beschreibung": "Guess correctly on the first try",
+    "emoji": "🎯"
+  },
+  {
+    "id": "scharfschuetze",
+    "name": "Sniper",
+    "beschreibung": "Guess correctly on the second try",
+    "emoji": "🏹"
+  },
+  {
+    "id": "effizient",
+    "name": "Efficient",
+    "beschreibung": "Guess correctly within 3 tries",
+    "emoji": "💡"
+  },
+  {
+    "id": "nervenkitzel",
+    "name": "Thrill Seeker",
+    "beschreibung": "Guess correctly on the last try",
+    "emoji": "😨"
+  },
+  {
+    "id": "pazifist",
+    "name": "Pacifist",
+    "beschreibung": "Target was a passive mob",
+    "emoji": "🕊️"
+  },
+  {
+    "id": "krieger",
+    "name": "Warrior",
+    "beschreibung": "Target was a hostile mob",
+    "emoji": "⚔️"
+  },
+  {
+    "id": "diplomat",
+    "name": "Diplomat",
+    "beschreibung": "Target was a neutral mob",
+    "emoji": "🤝"
+  },
+  {
+    "id": "boss_bezwinger",
+    "name": "Boss Slayer",
+    "beschreibung": "Target was a boss",
+    "emoji": "☠️"
+  },
+  {
+    "id": "one_shot_boss",
+    "name": "One Shot Boss",
+    "beschreibung": "Guess a boss on the first try",
+    "emoji": "💥"
+  },
+  {
+    "id": "nether_reisender",
+    "name": "Nether Traveler",
+    "beschreibung": "Target was from the Nether",
+    "emoji": "🔥"
+  },
+  {
+    "id": "end_erforscher",
+    "name": "End Explorer",
+    "beschreibung": "Target was from the End",
+    "emoji": "🔮"
+  },
+  {
+    "id": "flugkuenstler",
+    "name": "Aviator",
+    "beschreibung": "Target is a flying mob",
+    "emoji": "🪁"
+  },
+  {
+    "id": "tiefseetaucher",
+    "name": "Deep Sea Diver",
+    "beschreibung": "Target is a swimming mob",
+    "emoji": "🌊"
+  },
+  {
+    "id": "goliath",
+    "name": "Goliath",
+    "beschreibung": "Target has more than 50 HP",
+    "emoji": "💪"
+  },
+  {
+    "id": "zwerg",
+    "name": "Dwarf",
+    "beschreibung": "Target is smaller than 1 block",
+    "emoji": "🤏"
+  },
+  {
+    "id": "historiker",
+    "name": "Historian",
+    "beschreibung": "Target is from Alpha versions",
+    "emoji": "📜"
+  },
+  {
+    "id": "zeitspringer",
+    "name": "Time Hopper",
+    "beschreibung": "Target is from version 1.20 or newer",
+    "emoji": "⏳"
+  }
+]

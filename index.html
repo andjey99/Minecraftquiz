@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="favicon.jpg">
+</head>
+<body>
+    <div id="toast-container"></div>
+    <div id="achievements-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-achievements-modal" class="close-button">&times;</span>
+            <h2>Your Achievements</h2>
+            <div id="achievements-grid"></div>
+        </div>
+    </div>
+
+    <main id="app-container">
+        <h1>Minecraft Puzzle</h1>
+
+        <div id="game-mode-selector">
+            <button id="mode-mob" class="mode-button active">Mobdle</button>
+            <button id="mode-crafting" class="mode-button">Craftdle</button>
+            <button id="mode-disc" class="mode-button">Discdle</button>
+        </div>
+
+        <button id="achievements-button">🏆 Achievements</button>
+
+        <div id="mob-game-content" class="game-view">
+            <p class="subtitle">Guess the daily mob! <span id="guesses-left">10</span> guesses left.</p>
+            <div id="hint-box"></div>
+            
+            <div class="search-container">
+                <form id="guess-form" class="guess-form">
+                    <div class="input-wrapper">
+                        <input type="text" id="guess-input" class="guess-input" placeholder="Type a mob name..." autocomplete="off">
+                        <div id="search-results" class="search-results"></div>
+                    </div>
+                </form>
+            </div>
+            
+            <div class="guesses-container">
+                <div class="grid-header" id="mob-grid-header" style="display: none;">
+                    <div class="header-cell">Mob</div>
+                    <div class="header-cell">Type</div>
+                    <div class="header-cell">Dimension</div>
+                    <div class="header-cell">Health</div>
+                    <div class="header-cell">Attack</div>
+                    <div class="header-cell">Movement</div>
+                    <div class="header-cell">Size</div>
+                    <div class="header-cell">Release</div>
+                    <div class="header-cell">Drops</div>
+                </div>
+                <div id="guesses-body" class="guesses-body"></div>
+            </div>
+        </div>
+
+        <div id="crafting-game-content" class="game-view" style="display: none;">
+            <p class="subtitle">Which item is this? <span id="crafting-guesses-left">5</span> guesses left.</p>
+            
+            <div class="search-container">
+                <form id="guess-form-crafting" class="guess-form">
+                    <div class="input-wrapper">
+                        <input type="text" id="guess-input-crafting" class="guess-input" placeholder="Type an item name..." autocomplete="off">
+                        <div id="search-results-crafting" class="search-results"></div>
+                    </div>
+                </form>
+            </div>
+        
+            <div class="guesses-container">
+                <div class="grid-header" id="crafting-grid-header" style="display: none;">
+                    <div class="header-cell">Item</div>
+                    <div class="header-cell">Type</div>
+                    <div class="header-cell">Renewable</div>
+                    <div class="header-cell">Stackable</div>
+                    <div class="header-cell">Tool</div>
+                    <div class="header-cell">Recipe?</div>
+                </div>
+                <div id="guesses-body-crafting" class="guesses-body"></div>
+            </div>
+        </div>
+
+        <div id="disc-game-content" class="game-view" style="display: none;">
+            <p class="subtitle">Guess the Music Disc! <span id="disc-guesses-left">5</span> guesses left.</p>
+            
+            <div class="audio-player-container">
+                <button id="play-disc-button" class="play-btn">
+                    <span class="play-icon">▶</span> Play Audio
+                </button>
+            </div>
+            
+            <div class="search-container">
+                <form id="guess-form-disc" class="guess-form">
+                    <div class="input-wrapper">
+                        <input type="text" id="guess-input-disc" class="guess-input" placeholder="Type a disc name..." autocomplete="off">
+                        <div id="search-results-disc" class="search-results"></div>
+                    </div>
+                </form>
+            </div>
+        
+            <div class="guesses-container">
+                <div id="guesses-body-disc" class="guesses-body disc-guesses-row"></div>
+            </div>
+        </div>
+
+        <section id="end-game-section">
+            <h2 id="end-game-message"></h2>
+            <div class="stats-container">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span id="games-played" class="stat-number">0</span>
+                        <p class="stat-label">Played</p>
+                    </div>
+                    <div class="stat-item">
+                        <span id="win-rate" class="stat-number">0%</span>
+                        <p class="stat-label">Win Rate</p>
+                    </div>
+                    <div class="stat-item">
+                        <span id="current-streak" class="stat-number">0</span>
+                        <p class="stat-label">Current Streak</p>
+                    </div>
+                    <div class="stat-item">
+                        <span id="max-streak" class="stat-number">0</span>
+                        <p class="stat-label">Max Streak</p>
+                    </div>
+                </div>
+            </div>
+            <div class="next-mob-container">
+                <h3>Next Mob in</h3>
+                <div id="countdown-timer">00:00:00</div>
+            </div>
+            <button id="share-button">Share 🔗</button>
+        </section>
+
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

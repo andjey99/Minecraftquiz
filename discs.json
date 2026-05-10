@@ -1,0 +1,82 @@
+[
+  {
+    "id": "13", "name": "13",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_13.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/13.ogg"
+  },
+  {
+    "id": "cat", "name": "Cat",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_cat.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/cat.ogg"
+  },
+  {
+    "id": "blocks", "name": "Blocks",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_blocks.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/blocks.ogg"
+  },
+  {
+    "id": "chirp", "name": "Chirp",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_chirp.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/chirp.ogg"
+  },
+  {
+    "id": "far", "name": "Far",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_far.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/far.ogg"
+  },
+  {
+    "id": "mall", "name": "Mall",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_mall.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/mall.ogg"
+  },
+  {
+    "id": "mellohi", "name": "Mellohi",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_mellohi.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/mellohi.ogg"
+  },
+  {
+    "id": "stal", "name": "Stal",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_stal.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/stal.ogg"
+  },
+  {
+    "id": "strad", "name": "Strad",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_strad.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/strad.ogg"
+  },
+  {
+    "id": "ward", "name": "Ward",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_ward.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/ward.ogg"
+  },
+  {
+    "id": "11", "name": "11",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_11.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/11.ogg"
+  },
+  {
+    "id": "wait", "name": "Wait",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_wait.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/wait.ogg"
+  },
+  {
+    "id": "pigstep", "name": "Pigstep",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_pigstep.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/pigstep.ogg"
+  },
+  {
+    "id": "otherside", "name": "Otherside",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_otherside.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/otherside.ogg"
+  },
+  {
+    "id": "5", "name": "5",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_5.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/5.ogg"
+  },
+  {
+    "id": "relic", "name": "Relic",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/music_disc_relic.png",
+    "audio_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/sounds/records/relic.ogg"
+  }
+]

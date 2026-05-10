@@ -1,0 +1,361 @@
+[
+  {
+    "id": "diamond_pickaxe",
+    "name": "Diamond Pickaxe",
+    "typ": "Tool",
+    "erneuerbar": "No",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/diamond_pickaxe.png",
+    "recipe": [
+      "diamond",
+      "stick"
+    ]
+  },
+  {
+    "id": "cake",
+    "name": "Cake",
+    "typ": "Food",
+    "erneuerbar": "Yes",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/cake.png",
+    "recipe": [
+      "milk_bucket",
+      "sugar",
+      "egg",
+      "wheat"
+    ]
+  },
+  {
+    "id": "ender_chest",
+    "name": "Ender Chest",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/ender_chest.png",
+    "recipe": [
+      "obsidian",
+      "ender_eye"
+    ]
+  },
+  {
+    "id": "stick",
+    "name": "Stick",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/stick.png",
+    "recipe": [
+      "planks"
+    ]
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "typ": "Material",
+    "erneuerbar": "No",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/diamond.png"
+  },
+  {
+    "id": "milk_bucket",
+    "name": "Milk Bucket",
+    "typ": "Consumable",
+    "erneuerbar": "Yes",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/milk_bucket.png"
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 16,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/egg.png"
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/sugar.png"
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/wheat.png"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "typ": "Block",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/obsidian.png"
+  },
+  {
+    "id": "ender_eye",
+    "name": "Eye of Ender",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/ender_eye.png",
+    "recipe": [
+      "ender_pearl",
+      "blaze_powder"
+    ]
+  },
+  {
+    "id": "beacon",
+    "name": "Beacon",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/beacon.png",
+    "recipe": [
+      "glass",
+      "nether_star",
+      "obsidian"
+    ]
+  },
+  {
+    "id": "furnace",
+    "name": "Furnace",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/furnace_front.png",
+    "recipe": [
+      "cobblestone"
+    ]
+  },
+  {
+    "id": "crafting_table",
+    "name": "Crafting Table",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Axe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/crafting_table_top.png",
+    "recipe": [
+      "planks"
+    ]
+  },
+  {
+    "id": "tnt",
+    "name": "TNT",
+    "typ": "Block",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/tnt_side.png",
+    "recipe": [
+      "gunpowder",
+      "sand"
+    ]
+  },
+  {
+    "id": "golden_apple",
+    "name": "Golden Apple",
+    "typ": "Food",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/golden_apple.png",
+    "recipe": [
+      "gold_ingot",
+      "apple"
+    ]
+  },
+  {
+    "id": "bow",
+    "name": "Bow",
+    "typ": "Weapon",
+    "erneuerbar": "Yes",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/bow.png",
+    "recipe": [
+      "stick",
+      "string"
+    ]
+  },
+  {
+    "id": "shield",
+    "name": "Shield",
+    "typ": "Combat",
+    "erneuerbar": "Yes",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/shield.png",
+    "recipe": [
+      "planks",
+      "iron_ingot"
+    ]
+  },
+  {
+    "id": "bucket",
+    "name": "Bucket",
+    "typ": "Tool",
+    "erneuerbar": "Yes",
+    "stapelbar": 16,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/bucket.png",
+    "recipe": [
+      "iron_ingot"
+    ]
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "typ": "Tool",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/compass.png",
+    "recipe": [
+      "iron_ingot",
+      "redstone"
+    ]
+  },
+  {
+    "id": "iron_pickaxe",
+    "name": "Iron Pickaxe",
+    "typ": "Tool",
+    "erneuerbar": "Yes",
+    "stapelbar": 1,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/iron_pickaxe.png",
+    "recipe": [
+      "iron_ingot",
+      "stick"
+    ]
+  },
+  {
+    "id": "redstone",
+    "name": "Redstone Dust",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Pickaxe",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/redstone.png"
+  },
+  {
+    "id": "iron_ingot",
+    "name": "Iron Ingot",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/iron_ingot.png",
+    "recipe": [
+      "iron_ore"
+    ]
+  },
+  {
+    "id": "gold_ingot",
+    "name": "Gold Ingot",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/gold_ingot.png",
+    "recipe": [
+      "gold_ore"
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "typ": "Food",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/apple.png"
+  },
+  {
+    "id": "ender_pearl",
+    "name": "Ender Pearl",
+    "typ": "Utility",
+    "erneuerbar": "Yes",
+    "stapelbar": 16,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/ender_pearl.png"
+  },
+  {
+    "id": "blaze_powder",
+    "name": "Blaze Powder",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/blaze_powder.png",
+    "recipe": [
+      "blaze_rod"
+    ]
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "typ": "Block",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/glass.png",
+    "recipe": [
+      "sand"
+    ]
+  },
+  {
+    "id": "nether_star",
+    "name": "Nether Star",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/nether_star.png"
+  },
+  {
+    "id": "gunpowder",
+    "name": "Gunpowder",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/gunpowder.png"
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "typ": "Block",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "Shovel",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/block/sand.png"
+  },
+  {
+    "id": "string",
+    "name": "String",
+    "typ": "Material",
+    "erneuerbar": "Yes",
+    "stapelbar": 64,
+    "abbauwerkzeug": "None",
+    "bild_url": "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.20.1/assets/minecraft/textures/item/string.png"
+  }
+]
